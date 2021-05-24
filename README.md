@@ -7,10 +7,10 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
 
 <hr>
 
-[TulsaTechFest](https://tulsatechfest.com){:target="_blank"}<br/>
-[TechFests](https://techfests.com){:target="_blank"}<br/>
-[AppBlocks](https://appblocks.net){:target="_blank"}<br/>
-[Grouplings](https://grouplings.com){:target="_blank"}<br/>
+[TulsaTechFest](https://tulsatechfest.com)<br/>
+[TechFests](https://techfests.com)<br/>
+[AppBlocks](https://appblocks.net)<br/>
+[Grouplings](https://grouplings.com)<br/>
   
   </td><td valign="top" width="33%">
   
@@ -18,10 +18,10 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
 
 <hr>
 
-[AppBlocks](https://appblocks.net){:target="_blank"}<br/>
-[Grouplings](https://grouplings.com){:target="_blank"}<br/>
-[Do](https://github.com/radical-dave/do){:target="_blank"}<br/>
-[TechFests](https://techfests.com){:target="_blank"}<br/>
+[AppBlocks](https://appblocks.net)<br/>
+[Grouplings](https://grouplings.com)<br/>
+[Do](https://github.com/radical-dave/do)<br/>
+[TechFests](https://techfests.com)<br/>
 
   </td><td valign="top" width="33%">
   
@@ -30,13 +30,13 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
 <hr>
 
 📫 How to reach me:<br/>
-[RadicalDave.com](https://radicaldave.com){:target="_blank"}<br/>
-[LinkedIn](https://linkedin.com/in/davidwalker){:target="_blank"}<br/>
-[Twitter](https://twitter.com/davidwalker){:target="_blank"}<br/>
+[RadicalDave.com](https://radicaldave.com)<br/>
+[LinkedIn](https://linkedin.com/in/davidwalker)<br/>
+[Twitter](https://twitter.com/davidwalker)<br/>
 
   </td></tr><tr><td width="100%" colspan="3">
   
-  💬 Fun fact: I went to Junior High School at [W.T. Sampson School](https://www.dodea.edu/WTsampsonEHS/about.cfm){:target="_blank"} in GITMO (Guantanamo Bay Naval Base, Cuba) where I studied [Isshin-Ryu Karate](https://en.wikipedia.org/wiki/Isshin-ry%C5%AB){:target="_blank"} taught by a [NAVY SEABEE](https://www.necc.usff.navy.mil/seabees/){:target="_blank"}!
+  💬 Fun fact: I went to Junior High School at [W.T. Sampson School](https://www.dodea.edu/WTsampsonEHS/about.cfm) in GITMO (Guantanamo Bay Naval Base, Cuba) where I studied [Isshin-Ryu Karate](https://en.wikipedia.org/wiki/Isshin-ry%C5%AB) taught by a [NAVY SEABEE](https://www.necc.usff.navy.mil/seabees/)!
   
   </td></tr>
 </table>
