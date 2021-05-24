@@ -40,7 +40,7 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
   
   - [Isshin-Ryu Karate](https://en.wikipedia.org/wiki/Isshin-ry%C5%AB) taught by a [NAVY SEABEE](https://www.necc.usff.navy.mil/seabees/)
   - Bought my first Guns N' Roses album [Live ?!*@Like a Suicide](https://en.wikipedia.org/wiki/Live_%3F!*@_Like_a_Suicide)
-  - Got my first computer: [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64). In 1987, I moved to (Tulsa, Ok)[https://en.wikipedia.org/wiki/Tulsa,_Oklahoma} and started running (BBS)[https://en.wikipedia.org/wiki/Bulletin_board_system] systems!
+  - Got my first computer: [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64). Then, in 1987, I moved to [Tulsa, Ok](https://en.wikipedia.org/wiki/Tulsa,_Oklahoma) and started running [BBS](https://en.wikipedia.org/wiki/Bulletin_board_system) systems!
   
   </td></tr>
 </table>
