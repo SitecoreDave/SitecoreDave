@@ -27,6 +27,6 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
 [LinkedIn](https://linkedin.com/in/davidwalker)<br/>
 [Twitter](https://twitter.com/davidwalker)<br/>
   
-  </td></tr></table>
-  
-💬 Fun fact: I went to Junior High School in GITMO (Guantanamo Bay Naval Base, Cuba)
+    </td></tr><tr><td colspan="3">💬 Fun fact: I went to Junior High School in GITMO (Guantanamo Bay Naval Base, Cuba)</td>
+  </tr>
+</table>
