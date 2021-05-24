@@ -1,13 +1,17 @@
 Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, Leader & Manager of Practices, Processes, Products, Programs, Software, Solutions, Teams & Technologies;15 Years Sitecore Certified & Remote
 
 <table><tr><td valign="top" width="33%">
-### Projects
+  
+### Popular Projects
+  
 [TulsaTechFest](https://tulsatechfest.com)
 [TechFests](https://techfests.com)    
 [AppBlocks](https://appblocks.net)
 [Grouplings](https://grouplings.com)
   
   </td><td valign="top" width="33%">
+  
+### Current Projects
   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -21,6 +25,8 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
 [TechFests](https://techfests.com)    
 
   </td><td valign="top" width="33%">
+  
+### Connect!
   
 - 📫 How to reach me: ...
 [RadicalDave.com](https://radicaldave.com)
