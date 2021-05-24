@@ -1,4 +1,6 @@
-<table width="100%" border="0"><tr><tdProven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, Leader & Manager of Practices, Processes, Products, Programs, Software, Solutions, Teams & Technologies;15 Years Sitecore Certified & Remote
+<table width="100%" border="0"><tr><td>
+  
+Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, Leader & Manager of Practices, Processes, Products, Programs, Software, Solutions, Teams & Technologies;15 Years Sitecore Certified & Remote
                                   
 <table width="100%"><tr><td valign="top" width="33%">
   
