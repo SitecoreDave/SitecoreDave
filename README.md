@@ -6,6 +6,7 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
 ### ⚡ Popular Projects
 
 <hr>
+
 [TulsaTechFest](https://tulsatechfest.com)<br/>
 [TechFests](https://techfests.com)<br/>
 [AppBlocks](https://appblocks.net)<br/>
@@ -16,6 +17,7 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
 ### 🔭 Current Projects
 
 <hr>
+
 [AppBlocks](https://appblocks.net)<br/>
 [Grouplings](https://grouplings.com)<br/>
 [Do](https://github.com/radical-dave/do)<br/>
@@ -26,6 +28,7 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
 ### 👯 Connect!
   
 <hr>
+
 📫 How to reach me:<br/>
 [RadicalDave.com](https://radicaldave.com)<br/>
 [LinkedIn](https://linkedin.com/in/davidwalker)<br/>
