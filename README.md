@@ -2,38 +2,31 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
 
 <table><tr><td valign="top" width="33%">
   
-### Popular Projects
+### ⚡ Popular Projects
   
-[TulsaTechFest](https://tulsatechfest.com)
-[TechFests](https://techfests.com)    
-[AppBlocks](https://appblocks.net)
-[Grouplings](https://grouplings.com)
+[TulsaTechFest](https://tulsatechfest.com)<br/>
+[TechFests](https://techfests.com)<br/>
+[AppBlocks](https://appblocks.net)<br/>
+[Grouplings](https://grouplings.com)<br/>
   
   </td><td valign="top" width="33%">
   
-### Current Projects
-  
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+### 🔭 Current Projects
 
-[AppBlocks](https://appblocks.net)
-[Grouplings](https://grouplings.com)
-[Do](https://github.com/radical-dave/do)
-[TechFests](https://techfests.com)    
+[AppBlocks](https://appblocks.net)<br/>
+[Grouplings](https://grouplings.com)<br/>
+[Do](https://github.com/radical-dave/do)<br/>
+[TechFests](https://techfests.com)<br/>
 
   </td><td valign="top" width="33%">
   
-### Connect!
+### 👯 Connect!
   
-- 📫 How to reach me: ...
-[RadicalDave.com](https://radicaldave.com)
-[LinkedIn](https://linkedin.com/in/davidwalker)
-[Twitter](https://twitter.com/davidwalker)
+- 📫 How to reach me:<br/>
+[RadicalDave.com](https://radicaldave.com)<br/>
+[LinkedIn](https://linkedin.com/in/davidwalker)<br/>
+[Twitter](https://twitter.com/davidwalker)<br/>
   
   </td></table>
   
-- ⚡ Fun fact:
-I went to Junior High School in GITMO (Guantimo Bay, Cuba)
+💬 Fun fact: I went to Junior High School in GITMO (Guantimo Bay, Cuba)
