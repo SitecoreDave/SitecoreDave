@@ -1,6 +1,6 @@
 Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, Leader & Manager of Practices, Processes, Products, Programs, Software, Solutions, Teams & Technologies;15 Years Sitecore Certified & Remote
 
-<table><tr><td valign="top" width="33%">
+<table width="100%"><tr><td valign="top" width="33%">
   
 ### ⚡ Popular Projects
   
@@ -26,7 +26,8 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
 [RadicalDave.com](https://radicaldave.com)<br/>
 [LinkedIn](https://linkedin.com/in/davidwalker)<br/>
 [Twitter](https://twitter.com/davidwalker)<br/>
+[Facebook](https://www.facebook.com/davidlwalker)<br/>
   
   </td></table>
   
-💬 Fun fact: I went to Junior High School in GITMO (Guantimo Bay, Cuba)
+💬 Fun fact: I went to Junior High School in GITMO (Guantanamo Bay Naval Base, Cuba)
