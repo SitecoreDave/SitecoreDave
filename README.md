@@ -1,4 +1,4 @@
-<table width="100%" border="0"><tr><td>
+<table width="100%" border="0"><tr><td width="100%">
   
 Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, Leader & Manager of Practices, Processes, Products, Programs, Software, Solutions, Teams & Technologies;15 Years Sitecore Certified & Remote
                                   
