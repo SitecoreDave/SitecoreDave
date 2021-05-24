@@ -36,7 +36,7 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
 
   </td></tr><tr><td width="100%" colspan="3">
   
-  💬 Fun fact: I went to Junior High School at [W.T. Sampson School](https://www.dodea.edu/WTsampsonEHS/about.cfm) in GITMO (Guantanamo Bay Naval Base, Cuba) where I: studied:
+  💬 Fun fact: I went to Junior High School at [W.T. Sampson School](https://www.dodea.edu/WTsampsonEHS/about.cfm) in GITMO (Guantanamo Bay Naval Base, Cuba) where I studied:
   
   - [Isshin-Ryu Karate](https://en.wikipedia.org/wiki/Isshin-ry%C5%AB) taught by a [NAVY SEABEE](https://www.necc.usff.navy.mil/seabees/)
   - Bought my first Guns N' Roses album [Live ?!*@Like a Suicide](https://en.wikipedia.org/wiki/Live_%3F!*@_Like_a_Suicide)
