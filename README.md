@@ -36,7 +36,7 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
 
   </td></tr><tr><td width="100%" colspan="3">
   
-  💬 Fun fact: I went to Junior High School in GITMO (Guantanamo Bay Naval Base, Cuba)
+  💬 Fun fact: I went to Junior High School at [W.T. Smapson School](https://www.dodea.edu/WTsampsonEHS/about.cfm) in GITMO (Guantanamo Bay Naval Base, Cuba)
   
   </td></tr>
 </table>
