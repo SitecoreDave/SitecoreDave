@@ -1,3 +1,5 @@
+Principal Sitecore Architect and Developer Advocate/Evangelist, [SearchStax](https://searchstax.com)
+
 Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, Leader & Manager of Practices, Processes, Products, Programs, Software, Solutions, Teams & Technologies;15 Years Sitecore Certified & Remote
                                
 <center>
