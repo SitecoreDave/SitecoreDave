@@ -31,9 +31,9 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
   
 <hr>
 
-📫 How to reach me:<br/>
+📫 How to reach me:
 [RadicalDave.com](https://radicaldave.com)<br/>
-[LinkedIn](https://linkedin.com/in/davidwalker)<br/>
+[LinkedIn](https://linkedin.com/in/davidwalker),
 [Twitter](https://twitter.com/davidwalker)<br/>
 [Github/Radical-Dave](https://github.com/radical-dave)<br/>
 [Github/SharedSitecore](https://github.com/sharedsitecore)<br/>
