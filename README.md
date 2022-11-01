@@ -1,4 +1,4 @@
-Senior DevOps Consultant, [RevUnit](https://revunit.com)
+Senior DevSecOps Consultant, [RevUnit](https://revunit.com)
 
 Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, Leader & Manager of Practices, Processes, Products, Programs, Software, Solutions, Teams & Technologies;15 Years Sitecore Certified & Remote
                                
@@ -20,9 +20,9 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
 
 <hr>
 
+[Auto](https://github.com/radical-dave/auto)<br/>
 [AppBlocks](https://appblocks.net)<br/>
 [Grouplings](https://grouplings.com)<br/>
-[Do](https://github.com/radical-dave/do)<br/>
 [TechFests](https://techfests.com)<br/>
 
   </td><td valign="top" width="33%">
@@ -44,8 +44,8 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
   💬 Fun fact: I went to Junior High School at [W.T. Sampson School](https://www.dodea.edu/WTsampsonEHS/about.cfm) in GITMO (Guantanamo Bay Naval Base, Cuba) where I studied:
   
   - [Isshin-Ryu Karate](https://en.wikipedia.org/wiki/Isshin-ry%C5%AB) taught by a [NAVY SEABEE](https://www.necc.usff.navy.mil/seabees/)
-  - Bought my first Guns N' Roses album [Live ?!*@Like a Suicide](https://en.wikipedia.org/wiki/Live_%3F!*@_Like_a_Suicide)
-  - Got my first computer: [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64). Then, in 1987, I moved to [Tulsa, Ok](https://en.wikipedia.org/wiki/Tulsa,_Oklahoma) and started running [BBS](https://en.wikipedia.org/wiki/Bulletin_board_system) systems!
+  - Got my first computer: [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64). 
+  - In 1987, I moved to [Tulsa, Ok](https://en.wikipedia.org/wiki/Tulsa,_Oklahoma) and started running [BBS](https://en.wikipedia.org/wiki/Bulletin_board_system) systems!
   
   </td></tr>
 </table>
@@ -58,4 +58,4 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sitecoredave)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub metrics](https://metrics.lecoq.io/sitecoredave)
+![GitHub metrics](https://metrics.lecoq.io/SitecoreDave)
